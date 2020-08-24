@@ -1,5 +1,5 @@
 # DownloadMoreVaporeon
-A tool to download my waifu
+A tool to download my waifu and to download Sylveon
 
 ## Building: 
 
