@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/img/icon">
+    <qresource prefix="/img/icon/vaporeon">
         <file>5ghu012mprz21.jpg</file>
         <file>290de7ce0173a82685a90ba02d63bbdd.jpg</file>
         <file>7557285aa1dc4ccb32ee4aa6e9985e3c.jpg</file>
@@ -8,5 +8,19 @@
         <file>images.jpg</file>
         <file>tumblr_n33hrpmmWU1sm2531o2_1280.jpg</file>
         <file>unnamed (1).jpg</file>
+        <file>giphy.gif</file>
+        <file>ezgif-7-b8c32623e880.jpg</file>
+    </qresource>
+    <qresource prefix="/img/icon/sylveon">
+        <file>giphy-1.gif</file>
+        <file>af6bafaf353d7e0b3d2df1bda322ad8b.jpg</file>
+        <file>Sylveon_anime.jpg</file>
+        <file>4d744db85b5fa2b46b0a2dda0ceee48a.jpg</file>
+        <file>d68j98elue441.jpg</file>
+        <file>798.jpg</file>
+        <file>864b5315ef396b1ecd573e86a6e34491b30a3252_hq.jpg</file>
+        <file>images (2).jpg</file>
+        <file>download (2).jpg</file>
+        <file>ezgif-7-eefdb0161e09.jpg</file>
     </qresource>
 </RCC>

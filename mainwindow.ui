@@ -11,287 +11,518 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Select Vaporeon download plan</string>
+   <string>Select Vaporeon/Sylveon download plan</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
-    <property name="geometry">
-     <rect>
-      <x>150</x>
-      <y>160</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>1 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>120</x>
-      <y>20</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/images.jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_2">
-    <property name="geometry">
-     <rect>
-      <x>260</x>
-      <y>20</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/ebffd02ce81e610b6863eb9cf92fcfa1.jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_2">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>160</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>2 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>400</x>
-      <y>20</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/unnamed (1).jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_3">
-    <property name="geometry">
-     <rect>
-      <x>430</x>
-      <y>160</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>4 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_4">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>20</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/download (9).jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_4">
-    <property name="geometry">
-     <rect>
-      <x>570</x>
-      <y>160</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>8 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_5">
-    <property name="geometry">
-     <rect>
-      <x>120</x>
-      <y>220</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/290de7ce0173a82685a90ba02d63bbdd.jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_5">
-    <property name="geometry">
-     <rect>
-      <x>150</x>
-      <y>360</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>16 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_6">
-    <property name="geometry">
-     <rect>
-      <x>260</x>
-      <y>220</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/7557285aa1dc4ccb32ee4aa6e9985e3c.jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_6">
-    <property name="geometry">
-     <rect>
-      <x>290</x>
-      <y>360</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>69 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_7">
-    <property name="geometry">
-     <rect>
-      <x>400</x>
-      <y>220</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/5ghu012mprz21.jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_7">
-    <property name="geometry">
-     <rect>
-      <x>430</x>
-      <y>360</y>
-      <width>75</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>893 Vaporeon
-to have sex
-with</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_8">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>220</y>
-      <width>131</width>
-      <height>131</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-    <property name="pixmap">
-     <pixmap resource="Res.qrc">:/img/icon/tumblr_n33hrpmmWU1sm2531o2_1280.jpg</pixmap>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_8">
-    <property name="geometry">
-     <rect>
-      <x>570</x>
-      <y>360</y>
-      <width>75</width>
-      <height>61</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>5882300
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="tab">
+       <attribute name="title">
+        <string>Vaporeon</string>
+       </attribute>
+       <layout class="QGridLayout" name="gridLayout_4">
+        <item row="0" column="0">
+         <widget class="QScrollArea" name="scrollArea">
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollAreaWidgetContents">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>739</width>
+             <height>600</height>
+            </rect>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_3">
+            <item row="0" column="0">
+             <layout class="QGridLayout" name="gridLayout_2">
+              <item row="3" column="4" colspan="2">
+               <widget class="QPushButton" name="pushButton_8">
+                <property name="text">
+                 <string>5882300
 Vaporeon
+to have sex with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="2">
+               <widget class="QPushButton" name="pushButton_2">
+                <property name="text">
+                 <string>2 Vaporeon
 to have sex
 with</string>
-    </property>
-   </widget>
-   <widget class="QProgressBar" name="progressBar">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>440</y>
-      <width>781</width>
-      <height>23</height>
-     </rect>
-    </property>
-    <property name="value">
-     <number>0</number>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_9">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>470</y>
-      <width>751</width>
-      <height>16</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Waiting for plan selection...</string>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
-   </widget>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="4" colspan="2">
+               <widget class="QPushButton" name="pushButton_4">
+                <property name="text">
+                 <string>8 Vaporeon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="0" colspan="2">
+               <widget class="QPushButton" name="pushButton_5">
+                <property name="text">
+                 <string>16 Vaporeon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="2">
+               <widget class="QLabel" name="label_2">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/ebffd02ce81e610b6863eb9cf92fcfa1.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="3">
+               <widget class="QLabel" name="label_7">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/5ghu012mprz21.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="3">
+               <widget class="QPushButton" name="pushButton_7">
+                <property name="text">
+                 <string>893 Vaporeon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="4" colspan="2">
+               <widget class="QLabel" name="label_8">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/tumblr_n33hrpmmWU1sm2531o2_1280.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0" colspan="2">
+               <widget class="QLabel" name="label_5">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/290de7ce0173a82685a90ba02d63bbdd.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="3">
+               <widget class="QLabel" name="label_3">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/unnamed (1).jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="4" column="2" rowspan="2" colspan="2">
+               <widget class="QLabel" name="label_12">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/ezgif-7-b8c32623e880.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="2">
+               <widget class="QLabel" name="label_6">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/7557285aa1dc4ccb32ee4aa6e9985e3c.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="2">
+               <widget class="QPushButton" name="pushButton_6">
+                <property name="text">
+                 <string>69 Vaporeon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="7" column="2" colspan="2">
+               <widget class="QProgressBar" name="progressBar">
+                <property name="value">
+                 <number>0</number>
+                </property>
+               </widget>
+              </item>
+              <item row="4" column="0" rowspan="5" colspan="2">
+               <widget class="QLabel" name="label_10">
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0" colspan="2">
+               <widget class="QPushButton" name="pushButton">
+                <property name="text">
+                 <string>1 Vaporeon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="0" colspan="2">
+               <widget class="QLabel" name="label">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/images.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="8" column="2" colspan="2">
+               <widget class="QLabel" name="label_9">
+                <property name="text">
+                 <string>Waiting for plan selection...</string>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="3">
+               <widget class="QPushButton" name="pushButton_3">
+                <property name="text">
+                 <string>4 Vaporeon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="4" column="4" rowspan="5" colspan="2">
+               <widget class="QLabel" name="label_11">
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="4" colspan="2">
+               <widget class="QLabel" name="label_4">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/vaporeon/download (9).jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="6" column="2" colspan="2">
+               <widget class="QPushButton" name="pushButton_9">
+                <property name="text">
+                 <string>4398046511104000000
+Vaporeon to have sex with</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="tab_2">
+       <attribute name="title">
+        <string>Sylveon</string>
+       </attribute>
+       <layout class="QGridLayout" name="gridLayout_7">
+        <item row="0" column="0">
+         <widget class="QScrollArea" name="scrollArea_2">
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollAreaWidgetContents_2">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>739</width>
+             <height>631</height>
+            </rect>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_5">
+            <item row="0" column="0">
+             <layout class="QGridLayout" name="gridLayout_6">
+              <item row="0" column="0" colspan="2">
+               <widget class="QLabel" name="label_21">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/d68j98elue441.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="4" colspan="2">
+               <widget class="QLabel" name="label_24">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/images (2).jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="2">
+               <widget class="QPushButton" name="pushButton_11">
+                <property name="text">
+                 <string>2 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="4" colspan="2">
+               <widget class="QPushButton" name="pushButton_12">
+                <property name="text">
+                 <string>8 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="3">
+               <widget class="QLabel" name="label_14">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/ezgif-7-eefdb0161e09.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="4" column="2" rowspan="2" colspan="2">
+               <widget class="QLabel" name="label_18">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/download (2).jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="7" column="2" colspan="2">
+               <widget class="QProgressBar" name="progressBar_2">
+                <property name="value">
+                 <number>0</number>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="2">
+               <widget class="QPushButton" name="pushButton_15">
+                <property name="text">
+                 <string>69 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="0" colspan="2">
+               <widget class="QPushButton" name="pushButton_13">
+                <property name="text">
+                 <string>16 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="4" colspan="2">
+               <widget class="QLabel" name="label_15">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/Sylveon_anime.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="4" colspan="2">
+               <widget class="QPushButton" name="pushButton_10">
+                <property name="text">
+                 <string>5882300
+Sylveon
+to have sex with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="3" column="3">
+               <widget class="QPushButton" name="pushButton_14">
+                <property name="text">
+                 <string>893 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="3">
+               <widget class="QPushButton" name="pushButton_17">
+                <property name="text">
+                 <string>4 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="2">
+               <widget class="QLabel" name="label_13">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/4d744db85b5fa2b46b0a2dda0ceee48a.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="8" column="2" colspan="2">
+               <widget class="QLabel" name="label_22">
+                <property name="text">
+                 <string>Waiting for plan selection...
+</string>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0" colspan="2">
+               <widget class="QPushButton" name="pushButton_16">
+                <property name="text">
+                 <string>1 Sylveon
+to have sex
+with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="3">
+               <widget class="QLabel" name="label_17">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/af6bafaf353d7e0b3d2df1bda322ad8b.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="6" column="2" colspan="2">
+               <widget class="QPushButton" name="pushButton_18">
+                <property name="text">
+                 <string>4398046511104000000
+Sylveon to have sex with</string>
+                </property>
+               </widget>
+              </item>
+              <item row="4" column="0" rowspan="5" colspan="2">
+               <widget class="QLabel" name="label_20">
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0" colspan="2">
+               <widget class="QLabel" name="label_16">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/798.jpg</pixmap>
+                </property>
+                <property name="alignment">
+                 <set>Qt::AlignCenter</set>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="2">
+               <widget class="QLabel" name="label_19">
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="pixmap">
+                 <pixmap resource="Res.qrc">:/img/icon/sylveon/864b5315ef396b1ecd573e86a6e34491b30a3252_hq.jpg</pixmap>
+                </property>
+               </widget>
+              </item>
+              <item row="4" column="4" rowspan="5" colspan="2">
+               <widget class="QLabel" name="label_23">
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+              <item row="9" column="2" colspan="2">
+               <widget class="QLabel" name="label_25">
+                <property name="text">
+                 <string/>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
